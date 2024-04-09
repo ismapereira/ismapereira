@@ -1,7 +1,9 @@
-### Oie! Sou Ismael Pereira e estou em busca da minha jornada de aprendizado. 👋
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0194DD,100:050F2C&text=Seja%20bem%20vindo!&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
 
-- 🔭 Hoje estou em busca de novas oportunidades no mercado
-- 🌱 Atualmente estudo principalmente HTML e CSS, mas também busco aprender PHP
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&weight=500&size=30&pause=1000&color=0194DD&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1%2C+eu+sou+Ismael+Pereira!)](https://git.io/typing-svg)
+
+- 🔭 Hoje estou em busca de novas oportunidades no mercado e também de aprendizado
+- 🌱 Atualmente estudo principalmente HTML e CSS, mas também busco aprender PHP e me aperfeiçoar no uso do Photoshop
 - 🤔 Aceito ajuda na minha jornada para aprender
 - 💬 Me pergunte sobre minha comida favorita
 - 😄 Pronomes: ELE/DELE
