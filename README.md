@@ -21,16 +21,24 @@
 
 
 ### #Tecnologias, linguagens e ferramentas:
+
 <div>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
  
-</div>      
+</div>    
  
 ##
 <br>
@@ -38,13 +46,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismapereira&theme=react-dark&radius=10&color=ffffff&line=0194DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-### Meus contatos:
+### #Meus contatos:
 
 <div>
- <a href="mailto:ismaelpf15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
- <a href="https://www.instagram.com/_ismapereira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
- <a href="https://www.linkedin.com/in/ismael-pereira-feitosa-ba2aa91a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
- <a href="https://wa.me/5575991129432?text=Ol%C3%A1,%20eu%20gostaria%20de%20contratar%20os%20servi%C3%A7os%20de%20Front-End"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
+ <a href="mailto:ismaelpf15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.instagram.com/_ismapereira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/ismael-pereira-feitosa-ba2aa91a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://wa.me/5575991129432?text=Ol%C3%A1,%20eu%20gostaria%20de%20contratar%20os%20servi%C3%A7os%20de%20Front-End"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </div>
 
 ##
@@ -52,6 +60,9 @@
  <br><p align="center"><b>Contador de visitas</b></p>
  <img align="center" src="https://profile-counter.glitch.me/ismapereira/count.svg"></p>
 </div>
+
+##
+![Snake animation](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.svg)
  
  
 <img width=1000 src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050F2C,100:0194DD&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
