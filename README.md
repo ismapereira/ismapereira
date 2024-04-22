@@ -62,7 +62,6 @@
 </div>
 
 ##
-![Snake animation](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.svg)
- 
+![snake gif](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.svg)
  
 <img width=1000 src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050F2C,100:0194DD&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
