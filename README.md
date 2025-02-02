@@ -68,12 +68,6 @@
 
 ---
 
-## 🏆 Snake Game - Meus Commits  
-
-![snake gif](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ## 🌐 Onde me encontrar  
 
 <p align="center">
