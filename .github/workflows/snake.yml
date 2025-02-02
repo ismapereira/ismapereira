@@ -17,6 +17,8 @@ jobs:
         with:
           github_user_name: ismapereira  # Seu nome de usuário no GitHub
           outputs: dist/github-contribution-grid-snake.svg  # Define o caminho correto para o arquivo gerado
+          snakeColor: "#4CAF50"  # Cor verde para a cobrinha (pode alterar para qualquer cor)
+          gridColor: "#f5f5f5"  # Cor dos quadrados de fundo (pode alterar também)
 
       - name: Configurar o Git
         run: |
