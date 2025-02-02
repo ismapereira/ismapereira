@@ -70,8 +70,7 @@
 
 ## 🏆 Snake Game - Meus Commits  
 
-![Snake animation](https://github.com/ismapereira/ismapereira/blob/output/github-contibuition-grid-snake.svg)  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ismapereira&repo=ismapereira&theme=react)](https://github.com/ismapereira/ismapereira)
+![snake gif](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
