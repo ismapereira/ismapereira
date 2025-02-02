@@ -1,67 +1,80 @@
-<img width=1000 src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0194DD,100:050F2C&text=Seja%20bem%20vindo!&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
+<h1 align="center">🚀 Olá, eu sou Ismael Pereira!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&weight=500&size=30&pause=1000&color=0194DD&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+Ismael+Pereira!)](https://git.io/typing-svg)
+<p align="center">
+  💻 Desenvolvedor | ⚡ No-Code Enthusiast | 🤖 AI Prompt Beginner  
+</p>
 
-- 🔭 Hoje estou em busca de novas oportunidades no mercado e também de aprendizado
-- 🌱 Atualmente estudo principalmente HTML e CSS, mas também busco aprender PHP e me aperfeiçoar no uso do Photoshop
-- 🤔 Aceito ajuda na minha jornada para aprender
-- 💬 Me pergunte sobre minha comida favorita
-- 😄 Pronomes: ELE/DELE
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismapereira&label=Profile%20views&color=blue&style=flat" alt="Contador de visitas">
+</p>
 
-##
-<br>
- <div width=1000>
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ismapereira&show_icons=true&theme=transparent&hide_border=false&title_color=0194DD&icon_color=0194DD&text_color=ffffff">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=transparent&hide_border=false&title_color=0194DD&text_color=ffffff">
- </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+</p>
 
-<br>
+---
 
-##
+## 🔥 Sobre mim  
 
+- 🚀 Criador de soluções para **microempreendedores** 
+- 💼 Atuo no suporte de um **provedor de internet**  
+- 🎨 Habilidade com **Photoshop** para criação e personalização visual  
+- ⚙️ **Entusiaste em No-Code**, otimizando processos sem necessidade de código  
+- 🤖 Experiência com **elaboração de prompts para IA** 
 
-### #Tecnologias, linguagens e ferramentas:
+---
 
-<div>
+## 🛠️ Tecnologias e Ferramentas  
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### 🔹 **Desenvolvimento**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### 🛢️ **Banco de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+### ⚡ **Ferramentas e No-Code**  
+![No-Code](https://img.shields.io/badge/No--Code-FF8C00?style=for-the-badge&logo=zapier&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)    
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+### 📌 **Outras Tecnologias**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+---
 
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+## 📊 Estatísticas do GitHub  
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
- 
-</div>    
- 
-##
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismapereira&theme=react-dark&radius=10&color=ffffff&line=0194DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-### #Meus contatos:
-
-<div>
- <a href="mailto:ismaelpf15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www.instagram.com/_ismapereira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/ismael-pereira-feitosa-ba2aa91a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <a href="https://wa.me/5575991129432?text=Ol%C3%A1,%20eu%20gostaria%20de%20contratar%20os%20servi%C3%A7os%20de%20Front-End"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-</div>
-
-##
 <div align="center">
- <br><p align="center"><b>Contador de visitas</b></p>
- <img align="center" src="https://profile-counter.glitch.me/ismapereira/count.svg"></p>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismapereira&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=tokyonight" />
+</div>  
 
-##
-![snake gif](https://github.com/ismapereira/ismapereira/blob/output/github-contribution-grid-snake.svg)
- 
-<img width=1000 src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050F2C,100:0194DD&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
+---
+
+## 🏆 Snake Game - Meus Commits  
+
+<p align="center">
+  <img src="https://github.com/ismapereira/ismapereira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
+## 🌐 Onde me encontrar  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismael-pereira-feitosa-ba2aa91a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ismaelpf15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+💡 *"Transformando ideias em soluções!"* 🚀
