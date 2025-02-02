@@ -19,8 +19,16 @@
 - 🚀 Criador de soluções para **microempreendedores** 
 - 💼 Atuo no suporte de um **provedor de internet**  
 - 🎨 Habilidade com **Photoshop** para criação e personalização visual  
-- ⚙️ **Entusiasta em No-Code**, otimizando processos sem necessidade de código  
-- 🤖 Experiência com **elaboração de prompts para IA** 
+- ⚙️ **Entusiasta No-Code**, otimizando processos sem necessidade de código  
+- 🤖 Experiência com **elaboração de prompts para IA**  
+
+---
+
+## 🏆 Troféus do GitHub  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ismapereira&theme=tokyonight&margin-w=15&no-frame=true&column=7" />
+</p>
 
 ---
 
@@ -37,13 +45,13 @@
 
 ### ⚡ **Ferramentas e No-Code**  
 ![No-Code](https://img.shields.io/badge/No--Code-FF8C00?style=for-the-badge&logo=zapier&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)    
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
 
 ### 📌 **Outras Tecnologias**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 
 ---
 
@@ -53,6 +61,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismapereira&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=tokyonight" />
 </div>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ismapereira&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
