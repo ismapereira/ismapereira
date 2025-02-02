@@ -18,6 +18,11 @@ jobs:
           github_user_name: ismapereira  # Seu nome de usuário no GitHub
           outputs: dist/github-contribution-grid-snake.svg  # Define o caminho correto para o arquivo gerado
 
+      - name: Configurar o Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"  # Configura o e-mail para commits automáticos
+
       - name: Criar a branch output e publicar
         run: |
           # Cria a branch output localmente
