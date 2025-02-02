@@ -15,8 +15,7 @@ jobs:
       - name: Gerar a animação da Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ismapereira
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ismapereira  # Seu nome de usuário no GitHub
 
       - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
