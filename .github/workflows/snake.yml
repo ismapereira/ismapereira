@@ -19,16 +19,18 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg  # Define o caminho correto para o arquivo gerado
 
       - name: Criar a branch output e publicar
+        run: |
+          # Cria a branch output localmente
+          git checkout -b output
+          git add .
+          git commit -m "Add snake animation"
+          git push --set-upstream origin output  # Faz o push da branch output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output  # A branch de publicação é a output
           publish_dir: ./dist  # O diretório a ser publicado é o ./dist
-
-      - name: Commit e push para a branch output
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Add snake animation"
-          git push origin output
