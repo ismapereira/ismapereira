@@ -19,7 +19,7 @@
 - 🚀 Criador de soluções para **microempreendedores** 
 - 💼 Atuo no suporte de um **provedor de internet**  
 - 🎨 Habilidade com **Photoshop** para criação e personalização visual  
-- ⚙️ **Entusiaste em No-Code**, otimizando processos sem necessidade de código  
+- ⚙️ **Entusiasta em No-Code**, otimizando processos sem necessidade de código  
 - 🤖 Experiência com **elaboração de prompts para IA** 
 
 ---
