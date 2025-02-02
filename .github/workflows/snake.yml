@@ -23,15 +23,14 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"  # Configura o e-mail para commits automáticos
 
-      - name: Criar a branch output e publicar
+      - name: Atualizar branch output
         run: |
-          # Cria a branch output localmente
-          git checkout -b output
-          git add .
-          git commit -m "Add snake animation"
-          git push --set-upstream origin output  # Faz o push da branch output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git fetch origin output  # Atualiza a branch output remotamente
+          git checkout output      # Muda para a branch output
+          git pull origin output   # Faz o pull para integrar os commits
+          git add .                # Adiciona o arquivo gerado
+          git commit -m "Add snake animation"  # Faz o commit
+          git push origin output   # Faz o push da branch output
 
       - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
