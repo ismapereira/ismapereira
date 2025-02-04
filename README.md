@@ -62,9 +62,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=tokyonight" />
 </div>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ismapereira&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ismapereira&theme=tokyonight&hide_border=true&locale=pt_BR&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
