@@ -58,12 +58,12 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismapereira&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=tokyonight" />
-</div>  
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=ismapereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=tokyonight" />
+</div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ismapereira&theme=tokyonight&hide_border=true&locale=pt_BR&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=ismapereira&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-💡 *"Transformando ideias em soluções!"* 🚀 
+💡 *"Transformando ideias em soluções!"* 🚀
