@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/ismapereira/ismapereira/main/73b30af8-2119-4908-9bfa-a3aa4341cd97.png" width="600">
 </p>
 
 ---
@@ -67,6 +67,7 @@
 </div>
 
 ---
+
 
 ## 🌐 Onde me encontrar  
 
